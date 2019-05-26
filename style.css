@@ -1,0 +1,15 @@
+p {
+  font-size: 10px;
+  color: brown;
+  background-color: cyan;
+}
+h2 {
+  color: deeppink;
+  background-color: black;
+}
+#introdaction {
+  background-color: chartreuse;
+}
+div {
+  background-color: blue;
+}
