@@ -1,8 +1,26 @@
 p {
-  font-size: 10px;
+   font-weight: bold;
+  font-size: 20px;
   color: brown;
   background-color: cyan;
 }
-h2{ color: deeppink;
-background-color: black}
+h1{ color: deeppink;
+background-color: rgb(61, 209, 71)}
+}
+.aa{
+   background-attachment: fixed;
+   background-color: black;
+   color: red;
+   font-size: 30px;
+}
+.bb{
+   background-attachment: fixed;
+   background-color: red;
+   color: black;
+   font-size: 40px
+}
+.cc{
+   background: 200px;
+   font-size: 50px;
+   
 }
