@@ -1,26 +1,32 @@
 p {
-   font-weight: bold;
+  font-weight: bold;
   font-size: 20px;
   color: brown;
   background-color: cyan;
 }
-h1{ color: deeppink;
-background-color: rgb(61, 209, 71)}
+h1 {
+  color: deeppink;
+  background-color: rgb(61, 209, 71);
 }
-.aa{
-   background-attachment: fixed;
-   background-color: black;
-   color: red;
-   font-size: 30px;
+.aa {
+  background-attachment: fixed;
+  background-color: black;
+  color: red;
+  font-size: 30px;
 }
-.bb{
-   background-attachment: fixed;
-   background-color: red;
-   color: black;
-   font-size: 40px
+.bb {
+  background-attachment: fixed;
+  background-color: red;
+  color: black;
+  font-size: 40px;
 }
-.cc{
-   background: 200px;
-   font-size: 50px;
-   
+.cc {
+  background: 200px;
+  font-size: 50px;
+}
+/* volgende div werkt niet*/
+div {
+  width: 100px;
+  background-image: url(images/surfing.jpg);
+  background-image: url(../../spring2019-sprint2/assets/mallenmaker.jpg);
 }
