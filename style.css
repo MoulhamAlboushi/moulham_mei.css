@@ -9,5 +9,12 @@ header {
   background: white;
 }
 aside {
-  background: 10px;
+  background: 60px;
+}
+h3 {
+  color: blue;
+  font-style: italic;
+}
+#welcome {
+  background-color: yellow;
 }
