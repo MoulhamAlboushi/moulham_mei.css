@@ -2,29 +2,17 @@ p {
   font-weight: bold;
   font-size: 20px;
   color: white;
-  background-color: dimgray
+  background-color: dimgrayrgb(195, 195, 176)
   width: 550px;
 }
 h1 {
   display: block;
+  margin: 0 auto;
   color: black;
-  background-color: yellow;
 }
-.aa {
-  background-attachment: fixed;
-  background-color: black;
-  color: red;
-  font-size: 30px;
-}
-.bb {
-  background-attachment: fixed;
-  background-color: red;
+#ul {
   color: black;
-  font-size: 40px;
-}
-.cc {
-  background: 200px;
-  font-size: 50px;
+  background-color: rgb(195, 195, 176)
 }
 /* volgende div werkt niet*/
 html {
@@ -32,11 +20,11 @@ html {
 }
 
 body {
-  width: 600px;
+  width: 800px;
   margin: 0 auto;
   background-color: #ab147e;
   padding: 0 20px 20px 20px;
-  border: 5px solid black;
+  border: 5px solid rgb(195, 195, 176);
 }
 img {
   display: block;
